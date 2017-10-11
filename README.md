@@ -14,6 +14,6 @@ Display all user-entered information in table form
 
 The step for using this page, 
 
-First, you need to filled in all the information and click regsiter button once it have been completed. Then, Click admin link at the top of your right hand side to see all the information table that you entered just now. In this page you can delete all the information by clicking RESET LIST button. Just in case of you want to make a new registration just click on the register link button at the top then you may go into the your Registration form page again. 
+First, you need to filled in all the information and click register button once it have been completed. Then, Click admin link at the top of your right hand side to see all the information table that you entered just now. In this page you can delete all the information by clicking RESET LIST button. Just in case of you want to make a new registration just click on the register link button at the top then you may go into the your Registration form page again. 
 
 
